@@ -16,3 +16,7 @@ gem "github-pages"
 gem "image_optim", "~> 0.32.0"
 
 gem "rake", "~> 13.4"
+
+gem "mini_magick", "~> 5.4"
+
+gem "image_optim_pack", "~> 0.13.1"
