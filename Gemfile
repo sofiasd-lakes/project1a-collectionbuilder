@@ -12,3 +12,5 @@ gem "github-pages"
 # gem 'logger'
 # gem 'base64'
 # gem 'ostruct'
+
+gem "image_optim", "~> 0.32.0"
