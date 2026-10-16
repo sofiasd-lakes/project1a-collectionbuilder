@@ -14,3 +14,5 @@ gem "github-pages"
 # gem 'ostruct'
 
 gem "image_optim", "~> 0.32.0"
+
+gem "rake", "~> 13.4"
